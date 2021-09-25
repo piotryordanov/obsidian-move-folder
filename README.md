@@ -11,4 +11,4 @@ There are two available settings:
 
 #### Demo
 
-![](Untilted.mov)
+![](https://github.com/piotryordanov/obsidian-move-folder/raw/main/Untitled.mov)
