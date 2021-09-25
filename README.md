@@ -11,4 +11,5 @@ There are two available settings:
 
 #### Demo
 
-![](https://github.com/piotryordanov/obsidian-move-folder/raw/main/Untitled.mov)
+https://user-images.githubusercontent.com/48773775/134776366-d5e4b24a-ca60-4ed9-aa9d-40f047f1e148.mov
+
