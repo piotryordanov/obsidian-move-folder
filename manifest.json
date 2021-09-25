@@ -1,0 +1,10 @@
+{
+	"id": "move-folder-plugin",
+	"name": "Move Folder",
+	"version": "1.0.1",
+	"minAppVersion": "0.9.12",
+	"description": "This plugin allows you to move a folder into another location",
+	"author": "Piotr Yordanov",
+	"authorUrl": "https://piotryordanov.com",
+	"isDesktopOnly": false
+}
